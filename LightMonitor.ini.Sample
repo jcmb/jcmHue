@@ -1,0 +1,9 @@
+[Email]
+To=Example@GMAIL.COM
+Server=smtp.mailgun.org
+Port=465
+User=huemonitor@alerts.com
+Password=b3
+
+[Room]
+Prefix=Basement
